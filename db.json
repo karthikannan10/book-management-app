@@ -73,22 +73,6 @@
       "status": "Available"
     },
     {
-      "id": "10",
-      "title": "The 7 Habits of Highly Effective People",
-      "author": "Stephen R. Covey",
-      "genre": "Self-help",
-      "publishedYear": 1989,
-      "status": "Issued"
-    },
-    {
-      "id": "11",
-      "title": "Refactoring",
-      "author": "Martin Fowler",
-      "genre": "Programming",
-      "publishedYear": 1999,
-      "status": "Available"
-    },
-    {
       "id": "12",
       "title": "Design Patterns",
       "author": "Erich Gamma",

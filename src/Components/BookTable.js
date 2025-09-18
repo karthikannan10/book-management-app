@@ -35,6 +35,7 @@ const BookTable = () => {
         onSuccess: () => {
             queryClient.invalidateQueries("books");
             setDeleteDialogOpen(false);
+            toast.success("Book deleted successfully")
         },
         onError: () => toast.error("Error deleting book"),
     });
