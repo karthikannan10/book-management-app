@@ -4,6 +4,7 @@ const API_BASE = "http://localhost:5000";
 
 export const getBooks = async () => {
     const response = await axios.get(`${API_BASE}/books`);
+    console.log("Response", response)
     return response?.data;
 };
 
