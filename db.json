@@ -1,0 +1,132 @@
+{
+  "books": [
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-help",
+      "publishedYear": 2022,
+      "status": "Available",
+      "id": "1"
+    },
+    {
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "genre": "Programming",
+      "publishedYear": 1999,
+      "status": "Available",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "publishedYear": 2008,
+      "status": "Available"
+    },
+    {
+      "id": "4",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "publishedYear": 2016,
+      "status": "Available"
+    },
+    {
+      "id": "5",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "genre": "Business",
+      "publishedYear": 2011,
+      "status": "Issued"
+    },
+    {
+      "id": "6",
+      "title": "You Don’t Know JS",
+      "author": "Kyle Simpson",
+      "genre": "Programming",
+      "publishedYear": 2015,
+      "status": "Available"
+    },
+    {
+      "id": "7",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "genre": "Psychology",
+      "publishedYear": 2011,
+      "status": "Issued"
+    },
+    {
+      "id": "8",
+      "title": "Hooked",
+      "author": "Nir Eyal",
+      "genre": "Business",
+      "publishedYear": 2014,
+      "status": "Available"
+    },
+    {
+      "id": "9",
+      "title": "Cracking the Coding Interview",
+      "author": "Gayle Laakmann McDowell",
+      "genre": "Programming",
+      "publishedYear": 2015,
+      "status": "Available"
+    },
+    {
+      "id": "10",
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "genre": "Self-help",
+      "publishedYear": 1989,
+      "status": "Issued"
+    },
+    {
+      "id": "11",
+      "title": "Refactoring",
+      "author": "Martin Fowler",
+      "genre": "Programming",
+      "publishedYear": 1999,
+      "status": "Available"
+    },
+    {
+      "id": "12",
+      "title": "Design Patterns",
+      "author": "Erich Gamma",
+      "genre": "Programming",
+      "publishedYear": 1994,
+      "status": "Issued"
+    },
+    {
+      "id": "13",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "genre": "Finance",
+      "publishedYear": 1997,
+      "status": "Available"
+    },
+    {
+      "id": "14",
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "genre": "Business",
+      "publishedYear": 2014,
+      "status": "Available"
+    },
+    {
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "publishedYear": 2012,
+      "status": "Available",
+      "id": "15"
+    },
+    {
+      "title": "Hafry Potter",
+      "author": "Livingston",
+      "genre": "Sci-Fi",
+      "publishedYear": 1900,
+      "status": "Available",
+      "id": "478c"
+    }
+  ]
+}
